@@ -1,0 +1,47 @@
+#main{
+  background-color: #73fc5a;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: #381216;
+}
+
+#intro {
+  font-size: 20px;
+  text-align: center;
+  color: #381216;
+}
+
+#img-div{
+  border-width: medium;
+  border-style: solid;
+  border-color: #381216;
+  background-color: white;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+#img-caption {
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+#tribute-info {
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+}
+
+h3 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
